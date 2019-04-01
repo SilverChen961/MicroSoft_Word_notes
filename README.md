@@ -1,1 +1,2 @@
 # MicroSoft_Word_notes
+本来以为GitHub不支持二进制Word文档，虽然Git还是不支持在线浏览Word文档，因为Word学习过程截图较多，所以还是选择push Word文档。
